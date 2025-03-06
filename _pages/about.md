@@ -11,7 +11,7 @@ My name is Tao Wang (汪韬). I am a PhD student in Statistics from [Department 
 
 
 
-Content information
+Contact information
 ======
 * Address: 310 Herty Drive, Athens, GA 30602
 
