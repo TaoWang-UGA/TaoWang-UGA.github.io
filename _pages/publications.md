@@ -14,7 +14,7 @@ Tao Wang, Yanjun Yang, Haoran Lu, Jiaheng Cui, Xianyan Chen, Ping Ma, Wenxuan Zh
 
 **Media Coverage**:  
 - **The work is featured on the [cover](https://pubs.rsc.org/en/content/articlepdf/2025/an/d4an01177e) of Analyst.**
-![Cover of Analyst 2025](/images/analyst_cover.png){: width="300" }
+![Cover of Analyst 2025](/images/analyst_cover.png){: width="200" height="300" }
 
 ---
 
