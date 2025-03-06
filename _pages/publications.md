@@ -30,4 +30,4 @@ Tao Wang, Simin Ma, Soobin Baek, Shihao Yang
 *Scientific Reports*, 2022. [**PDF**](https://www.nature.com/articles/s41598-022-13162-9.pdf)
 
 **Media Coverage**:  
-- **The work is highlighted by VOA [news](https://www.voanews.com/a/scientists-use-google-search-data-to-forecast-covid-19-hospitalizations/6638526.html).**
+- **The work is highlighted by [VOA news](https://www.voanews.com/a/scientists-use-google-search-data-to-forecast-covid-19-hospitalizations/6638526.html).**
