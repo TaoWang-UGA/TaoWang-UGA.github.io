@@ -19,7 +19,7 @@ Tao Wang, Yanjun Yang, Haoran Lu, Jiaheng Cui, Xianyan Chen, Ping Ma, Wenxuan Zh
 <p align="center">
   <img src="/images/analyst_cover.png"
        alt="Cover of Analyst 2025"
-       width="200" height="300" />
+       width="400" height="600" />
 </p>
 ---
 
