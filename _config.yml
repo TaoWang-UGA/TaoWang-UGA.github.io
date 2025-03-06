@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Luyang Fang's Homepage"
+title                    : "Tao Wang's Homepage"
 title_separator          : "-"
-name                     : &name "Luyang Fang"
+name                     : &name "Tao Wang"
 description              : &description "personal description"
-url                      : "https://luyangfang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://TaoWang-UGA.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LuyangFang/LuyangFang.github.io"
 
@@ -22,17 +22,17 @@ repository               : "LuyangFang/LuyangFang.github.io"
 author:
   # Biographic information
   avatar           : "Luyang.png"
-  name             : "Luyang Fang"
+  name             : "Tao Wang"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Athens, GA"
   employer         : "University of Georgia"
   uri              : # URL
-  email            : "luyang.fang@uga.edu" 
+  email            : "tw95546@uga.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=jriFo4wAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=32Yr4eIAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
