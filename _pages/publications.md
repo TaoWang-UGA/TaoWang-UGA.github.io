@@ -14,8 +14,13 @@ Tao Wang, Yanjun Yang, Haoran Lu, Jiaheng Cui, Xianyan Chen, Ping Ma, Wenxuan Zh
 
 **Media Coverage**:  
 - **The work is featured on the [cover](https://pubs.rsc.org/en/content/articlepdf/2025/an/d4an01177e) of Analyst.**
-<img src="/images/analyst_cover.png" alt="Cover of Analyst 2025" width="200" height="300" />
+<br />
 
+<p align="center">
+  <img src="/images/analyst_cover.png"
+       alt="Cover of Analyst 2025"
+       width="200" height="300" />
+</p>
 ---
 
 ## SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training
