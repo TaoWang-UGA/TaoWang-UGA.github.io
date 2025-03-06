@@ -7,16 +7,27 @@ redirect_from:
   - /resume
 ---
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=jriFo4wAAAAJ&hl=en).
+## Functional Regression for SERS Spectrum Transformation Across Diverse Instruments
 
-2024
-========
-- **Fang, L.**, Chen, Y., Zhong, W., Ma, P. (2024) [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://openreview.net/pdf?id=knZ4NYzGUd), International Conference on Machine Learning (ICML).
-- Wang, Z., **Fang, L.**\*, Cai, J., Ma, P., Zhong, W. (2024) [MultiCOP: An Association Analysis of Microbiome-Metabolome Relationships](https://drive.google.com/file/d/1ziOs1fgjxSvBtdeNdoaBwN_9Dvohy8kA/view?usp=sharing), Statistics in Biosciences. (\* Joint-First author)
-- Latif, E., **Fang, L.**, Ma, P., and Zhai, X. (2024) [Knowledge Distillation of LLMs for Automatic Scoring of Science Assessments](https://drive.google.com/file/d/1ntv10R8kJ216eBG8vQw2J7zGAsJd51rE/view?usp=sharing), International Conference on Artificial Intelligence in Education.
-- Wang, S., Wu, S., Chen, Y., **Fang, L.**, Xiao, L., Li, F. (2024) [Exploring Latent Constructs through Multimodal Data Analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jedm.12412), Journal of Educational Measurement.
+Tao Wang, Yanjun Yang, Haoran Lu, Jiaheng Cui, Xianyan Chen, Ping Ma, Wenxuan Zhong and Yiping Zhao  
+*Analyst*, 2025. [**PDF**](http://pubs.rsc.org/en/content/articlehtml/2025/an/d4an01177e)
 
-2023
-========
-- **Fang, L.**, Lee, GG., Zhai, X. (2023) [Using gpt-4 to augment unbalanced data for automatic scoring](https://arxiv.org/pdf/2310.18365), ArXiv.
-- Wu, S., **Fang L.**, Zhang, J., Sriram, T. N., Coshatt, S. J., Zahiri, F., Mantooth, A., Ye, J., Zhong, W., Ma, P., Song, W. (2023) [Unsupervised Anomaly Detection and Diagnosis in Power Electronic Networks: Informative Leverage and Multivariate Functional Clustering Approaches](https://par.nsf.gov/servlets/purl/10494748), IEEE Transactions on Smart Grid.
+**Media Coverage**:  
+- **The work is featured on the [cover](https://pubs.rsc.org/en/content/articlepdf/2025/an/d4an01177e) of Analyst.**
+
+---
+
+## SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training
+
+Luyang Fang, Cheng Meng, Lin Zhao, Tao Wang, Tianming Liu, Wenxuan Zhong, Ping Ma  
+*Big Data Mining and Analytics*, 2025, accepted.
+
+---
+
+## COVID-19 Hospitalizations Forecasts Using Internet Search Data
+
+Tao Wang, Simin Ma, Soobin Baek, Shihao Yang  
+*Scientific Reports*, 2022. [**PDF**](https://www.nature.com/articles/s41598-022-13162-9.pdf)
+
+**Media Coverage**:  
+- **The work is highlighted by a VOA [article](https://www.voanews.com/a/scientists-use-google-search-data-to-forecast-covid-19-hospitalizations/6638526.html).**
