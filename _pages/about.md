@@ -10,7 +10,7 @@ redirect_from:
   <div class="minimal-intro__copy">
     <p class="minimal-kicker">Statistics PhD Candidate · University of Georgia</p>
     <h1 id="intro-title">Tao Wang</h1>
-    <p class="minimal-lead">I work on efficient machine learning, large language models, and statistical methods for scientific data.</p>
+    <p class="minimal-lead">I am a Statistics PhD candidate at the University of Georgia, advised by Ping Ma and Wenxuan Zhong. My research focuses on efficient LLM adaptation, knowledge distillation, functional data analysis, and forecasting.</p>
     <nav class="profile-links" aria-label="Profile links">
       <a href="mailto:tw95546@uga.edu">Email</a>
       <a href="https://scholar.google.com/citations?user=32Yr4eIAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
