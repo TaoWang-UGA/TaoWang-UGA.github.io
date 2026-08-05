@@ -11,7 +11,7 @@ redirect_from:
   <p class="eyebrow">Academic profile</p>
   <p class="page-deck">Statistics researcher developing efficient machine learning methods for language models, functional data, and scientific applications.</p>
   <div class="hero-actions">
-    <a class="profile-button profile-button--primary" href="https://drive.google.com/file/d/1uWuTSwznYYIKE9hXI78JIq3vWvcX_pDR/view?usp=drive_link">View full CV</a>
+    <a class="profile-button profile-button--primary" href="/publication/">View publications</a>
     <a class="profile-button" href="mailto:tw95546@uga.edu">Email me</a>
   </div>
 </div>

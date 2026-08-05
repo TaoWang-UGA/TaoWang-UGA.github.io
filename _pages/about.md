@@ -19,8 +19,8 @@ redirect_from:
   </p>
   <div class="hero-actions" aria-label="Profile links">
     <a class="profile-button profile-button--primary" href="/publication/">Explore my research</a>
-    <a class="profile-button" href="https://scholar.google.com/citations?user=32Yr4eIAAAAJ&hl=en">Google Scholar</a>
-    <a class="profile-button" href="https://www.linkedin.com/in/tao-wang-99bb86172/">LinkedIn</a>
+    <a class="profile-button" href="https://scholar.google.com/citations?user=32Yr4eIAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+    <a class="profile-button" href="https://www.linkedin.com/in/tao-wang-99bb86172/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
   </div>
 </section>
 
@@ -76,16 +76,19 @@ redirect_from:
       <div class="featured-meta"><span>LLM efficiency</span><span>Manuscript</span></div>
       <h3>GASDU: Gauss-Southwell Dynamic Update for Efficient LLM Fine-Tuning</h3>
       <p>A sparse, periodically refreshed update rule with convergence guarantees and practical gains across LLaMA and GPT-OSS model families.</p>
+      <div class="publication-links"><a href="/publication/#gasdu">Publication details</a></div>
     </article>
     <article class="featured-item">
       <div class="featured-meta"><span>Scientific machine learning</span><span>Analyst · 2025</span></div>
-      <h3><a href="https://doi.org/10.1039/D4AN01177E">Functional Regression for SERS Spectrum Transformation Across Diverse Instruments</a></h3>
+      <h3>Functional Regression for SERS Spectrum Transformation Across Diverse Instruments</h3>
       <p>A functional regression approach to cross-instrument calibration, featured on the cover of <em>Analyst</em>.</p>
+      <div class="publication-links"><a href="/publication/#sers">Publication details</a></div>
     </article>
     <article class="featured-item">
       <div class="featured-meta"><span>AI for education</span><span>AAAI · 2026</span></div>
-      <h3><a href="https://doi.org/10.1609/aaai.v40i48.42115">Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts</a></h3>
+      <h3>Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts</h3>
       <p>A single deployable scorer that shares knowledge across tasks while remaining compact and adaptable.</p>
+      <div class="publication-links"><a href="/publication/#unimoe">Publication details</a></div>
     </article>
   </div>
 </section>
