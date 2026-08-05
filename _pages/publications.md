@@ -1,57 +1,69 @@
 ---
-layout: archive
+layout: minimal
 title: "Publications"
 permalink: /publication/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-## Functional Regression for SERS Spectrum Transformation Across Diverse Instruments
+<header class="minimal-page-header">
+  <p class="minimal-kicker">Research</p>
+  <div>
+    <h1>Publications</h1>
+    <a href="https://scholar.google.com/citations?user=32Yr4eIAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar <span aria-hidden="true">↗</span></a>
+  </div>
+</header>
 
-Tao Wang, Yanjun Yang, Haoran Lu, Jiaheng Cui, Xianyan Chen, Ping Ma, Wenxuan Zhong and Yiping Zhao  
-*Analyst*, 2025. [**PDF**](http://pubs.rsc.org/en/content/articlehtml/2025/an/d4an01177e)
+<ol class="publication-list">
+  <li class="publication-entry" id="llm-distillation">
+    <p class="publication-meta">2025 · Artificial Intelligence Review</p>
+    <h2><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=32Yr4eIAAAAJ&amp;citation_for_view=32Yr4eIAAAAJ:UeHWp8X0CEIC" target="_blank" rel="noopener noreferrer">Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions</a></h2>
+    <p>Luyang Fang, Xiaowei Yu, Jiazhang Cai, et al., including <strong>Tao Wang</strong></p>
+  </li>
 
-**Media Coverage**:  
-- **The work is featured on the [cover](https://pubs.rsc.org/en/content/articlepdf/2025/an/d4an01177e) of Analyst.**
-<br />
+  <li class="publication-entry" id="bioinformatics">
+    <p class="publication-meta">2026 · Quantitative Biology</p>
+    <h2><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=32Yr4eIAAAAJ&amp;citation_for_view=32Yr4eIAAAAJ:qjMakFHDy7sC" target="_blank" rel="noopener noreferrer">Large Language Models for Bioinformatics</a></h2>
+    <p>Wei Ruan, Yanjun Lyu, Jing Zhang, et al., including <strong>Tao Wang</strong></p>
+  </li>
 
-<p align="center">
-  <img src="/images/analyst_cover.png"
-       alt="Cover of Analyst 2025"
-       width="400" height="600" />
-</p>
----
+  <li class="publication-entry" id="llm-safety">
+    <p class="publication-meta">2025 · arXiv:2507.19672</p>
+    <h2><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=32Yr4eIAAAAJ&amp;citation_for_view=32Yr4eIAAAAJ:IjCSPb-OGe4C" target="_blank" rel="noopener noreferrer">Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges</a></h2>
+    <p>Haoran Lu, Luyang Fang, Rui Zhang, et al., including <strong>Tao Wang</strong></p>
+  </li>
 
-## SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training
+  <li class="publication-entry" id="covid-forecasting">
+    <p class="publication-meta">2022 · Scientific Reports</p>
+    <h2><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=32Yr4eIAAAAJ&amp;citation_for_view=32Yr4eIAAAAJ:d1gkVwhDpl0C" target="_blank" rel="noopener noreferrer">COVID-19 Hospitalizations Forecasts Using Internet Search Data</a></h2>
+    <p><strong>Tao Wang</strong>, Simin Ma, Soobin Baek, Shihao Yang</p>
+  </li>
 
-Luyang Fang, Cheng Meng, Lin Zhao, Tao Wang, Tianming Liu, Wenxuan Zhong, Ping Ma  
-*Big Data Mining and Analytics*, 2025, accepted.
+  <li class="publication-entry" id="sers">
+    <p class="publication-meta">2025 · Analyst</p>
+    <h2><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=32Yr4eIAAAAJ&amp;citation_for_view=32Yr4eIAAAAJ:2osOgNQ5qMEC" target="_blank" rel="noopener noreferrer">Functional Regression for SERS Spectrum Transformation Across Diverse Instruments</a></h2>
+    <p><strong>Tao Wang</strong>, Yanjun Yang, Haoran Lu, Jiaheng Cui, Xianyan Chen, Ping Ma, Wenxuan Zhong, Yiping Zhao</p>
+  </li>
 
----
+  <li class="publication-entry" id="spot">
+    <p class="publication-meta">2025 · Big Data Mining and Analytics</p>
+    <h2><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=32Yr4eIAAAAJ&amp;citation_for_view=32Yr4eIAAAAJ:zYLM7Y9cAGgC" target="_blank" rel="noopener noreferrer">SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training</a></h2>
+    <p>Luyang Fang, Cheng Meng, Lin Zhao, <strong>Tao Wang</strong>, Tianming Liu, Wenxuan Zhong, Ping Ma</p>
+  </li>
 
-## COVID-19 Hospitalizations Forecasts Using Internet Search Data
+  <li class="publication-entry" id="unimoe">
+    <p class="publication-meta">2026 · AAAI</p>
+    <h2><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=32Yr4eIAAAAJ&amp;citation_for_view=32Yr4eIAAAAJ:Tyk-4Ss8FVUC" target="_blank" rel="noopener noreferrer">Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts</a></h2>
+    <p>Luyang Fang, <strong>Tao Wang</strong>, Ping Ma, Xiaoming Zhai</p>
+  </li>
 
-Tao Wang, Simin Ma, Soobin Baek, Shihao Yang  
-*Scientific Reports*, 2022. [**PDF**](https://www.nature.com/articles/s41598-022-13162-9.pdf)
+  <li class="publication-entry" id="motor-anomaly">
+    <p class="publication-meta">2025 · TechRxiv</p>
+    <h2><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=32Yr4eIAAAAJ&amp;citation_for_view=32Yr4eIAAAAJ:Y0pCki6q_DkC" target="_blank" rel="noopener noreferrer">Domain-Adaptive Anomaly Detection and Severity Prediction of Electric Machine Drives at the Point of Common Coupling</a></h2>
+    <p>Abolfazl Najar, Shushan Wu, He Yang, <strong>Tao Wang</strong>, et al.</p>
+  </li>
 
-**Media Coverage**:  
-- **The work is highlighted by [VOA news](https://www.voanews.com/a/scientists-use-google-search-data-to-forecast-covid-19-hospitalizations/6638526.html).**
-
----
-
-## Large Language Models for Bioinformatics
-
-Wei Ruan, Yanjun Lyu, Jing Zhang, Jiazhang Cai, Peng Shu, Yang Ge, Yao Lu, Shang Gao, Yue Wang, Peilong Wang, Lin Zhao, Tao Wang, Yufang Liu, Luyang Fang, Ziyu Liu, Zhengliang Liu, Yiwei Li, Zihao Wu, Junhao Chen, Hanqi Jiang, Yi Pan, Zhenyuan Yang, Jingyuan Chen, Shizhe Liang, Wei Zhang, Terry Ma, Yuan Dou, Jianli Zhang, Xinyu Gong, Qi Gan, Yusong Zou, Zebang Chen, Yuanxin Qian, Shuo Yu, Jin Lu, Kenan Song, Xianqiao Wang, Andrea Sikora, Gang Li, Xiang Li, Quanzheng Li, Yingfeng Wang, Lu Zhang, Yohannes Abate, Lifang He, Wenxuan Zhong, Rongjie Liu, Chao Huang, Wei Liu, Ye Shen, Ping Ma, Hongtu Zhu, Yajun Yan, Dajiang Zhu, Tianming Liu. 
-
-*arXiv*, 2025. [**PDF**](https://arxiv.org/pdf/2501.06271)
-
-
----
-## Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions
-
-Luyang Fang, Xiaowei Yu, Jiazhang Cai, Yongkai Chen, Shushan Wu, Zhengliang Liu, Zhenyuan Yang, Haoran Lu, Xilin Gong, Yufang Liu, Terry Ma, Wei Ruan, Ali Abbasi, Jing Zhang, Tao Wang, Ehsan Latif, Wei Liu, Wei Zhang, Soheil Kolouri, Xiaoming Zhai, Dajiang Zhu, Wenxuan Zhong, Tianming Liu, Ping Ma. 
-
-*arXiv*, 2025. [**PDF**](https://arxiv.org/pdf/2504.14772) 
-
-
+  <li class="publication-entry" id="gasdu">
+    <p class="publication-meta">Manuscript</p>
+    <h2><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=32Yr4eIAAAAJ&amp;citation_for_view=32Yr4eIAAAAJ:W7OEmFMy1HYC" target="_blank" rel="noopener noreferrer">GASDU: Gauss-Southwell Dynamic Update for Efficient LLM Fine-Tuning</a></h2>
+    <p><strong>Tao Wang</strong>, Luyang Fang, Wenxuan Zhong, Ping Ma</p>
+  </li>
+</ol>
